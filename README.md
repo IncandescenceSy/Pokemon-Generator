@@ -1,5 +1,5 @@
 # Pokemon-Generator
-Command line utility that generates a challenge command to be used with Pokemon Showdown that legalizes a specific, random subset of Pokemon.
+Command line utility that generates a challenge command to be used with Pokemon Showdown that legalizes a random, arbitrarily-sized subset of Pokemon.
 
 ## Usage
 
