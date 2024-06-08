@@ -3,8 +3,6 @@ Command line utility that generates a challenge command to be used with Pokemon 
 
 ## Usage
 
-**This is a command line tool! Do not run the .exe file directly! Open a shell (Command Prompt, Bash, etc) and type commands to use it.**
-
 `
 pokemon_generator x
 `
